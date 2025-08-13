@@ -1,4 +1,4 @@
-- name: Startpage
+- name: New Tab
   width: slim
   hide-desktop-navigation: true
   center-vertically: true
